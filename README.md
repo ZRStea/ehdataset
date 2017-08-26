@@ -2,7 +2,7 @@
 
 An e-hentai dataset and a simple recommendation algorithm.
 
-Raw data comes from [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler).
+Raw data come from [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler).
 
 The maximum gid is 1020617 at 2017/1/21 16:07:18.
 
@@ -62,7 +62,7 @@ Inputing a gid, the algorithm will return the highest similarity 20 works.
 $python3 recommendation.py
 Loading...
 Please enter gid:
-627651
+$627651
 [クラスメイトショック(三上小又 弘崎真史)]破顔一笑(らき☆すた) (中文)    gid:627648    like:8    rate:4.28
 [クラスメイトショック(三上小又 弘崎真史)]破顔二笑(らき☆すた) (中文)    gid:627651    like:6    rate:4.36
 Classmate Shock 1, 2, and 3 [Eng]    gid:189174    like:60    rate:4.77
